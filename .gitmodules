@@ -1,0 +1,4 @@
+[submodule "pygments"]
+	path = pygments
+	url = https://github.com/WikidPad/AccessoryHelper-PrettyCode-Pygments.git
+	branch = master
